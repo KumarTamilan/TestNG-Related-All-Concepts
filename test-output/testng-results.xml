@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-29T16:34:24 IST" name="Default suite" finished-at="2024-11-29T16:35:13 IST" duration-ms="48312">
+    <groups>
+    </groups>
+    <test started-at="2024-11-29T16:34:24 IST" name="Default test" finished-at="2024-11-29T16:35:13 IST" duration-ms="48312">
+      <class name="org.dataProviderTest.DataProviderOnly">
+        <test-method signature="main(java.lang.String,java.lang.String)[pri:0, instance:org.dataProviderTest.DataProviderOnly@5ba3f27a]" started-at="2024-11-29T16:34:24 IST" name="main" data-provider="qaTestData" finished-at="2024-11-29T16:34:31 IST" duration-ms="7160" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumaran12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rithvik@Test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method signature="main(java.lang.String,java.lang.String)[pri:0, instance:org.dataProviderTest.DataProviderOnly@5ba3f27a]" started-at="2024-11-29T16:34:31 IST" name="main" data-provider="qaTestData" finished-at="2024-11-29T16:34:38 IST" duration-ms="6640" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[karuppannan@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Harshanth@Test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method signature="main(java.lang.String,java.lang.String)[pri:0, instance:org.dataProviderTest.DataProviderOnly@5ba3f27a]" started-at="2024-11-29T16:34:38 IST" name="main" data-provider="qaTestData" finished-at="2024-11-29T16:34:45 IST" duration-ms="7059" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amutha@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Karuppannan@Test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method signature="main(java.lang.String,java.lang.String)[pri:0, instance:org.dataProviderTest.DataProviderOnly@5ba3f27a]" started-at="2024-11-29T16:34:45 IST" name="main" data-provider="qaTestData" finished-at="2024-11-29T16:34:53 IST" duration-ms="7894" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hemalatha12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Amutha@Test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method signature="main(java.lang.String,java.lang.String)[pri:0, instance:org.dataProviderTest.DataProviderOnly@5ba3f27a]" started-at="2024-11-29T16:34:53 IST" name="main" data-provider="qaTestData" finished-at="2024-11-29T16:35:00 IST" duration-ms="6650" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[karthick@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hema@Test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method signature="main(java.lang.String,java.lang.String)[pri:0, instance:org.dataProviderTest.DataProviderOnly@5ba3f27a]" started-at="2024-11-29T16:35:00 IST" name="main" data-provider="qaTestData" finished-at="2024-11-29T16:35:06 IST" duration-ms="6453" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[harshanth@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Karthick@Test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method signature="main(java.lang.String,java.lang.String)[pri:0, instance:org.dataProviderTest.DataProviderOnly@5ba3f27a]" started-at="2024-11-29T16:35:06 IST" name="main" data-provider="qaTestData" finished-at="2024-11-29T16:35:13 IST" duration-ms="6412" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rithvik@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kumaran@Test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- org.dataProviderTest.DataProviderOnly -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

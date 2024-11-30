@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite  name="Suite">
+	<test  name="qaData">
+		<parameter name="browsers" value="chrome"></parameter>
+		<parameter name="username" value="kumaran@gmail.com"></parameter>
+		<parameter name="password" value="Kumaran@Test"></parameter>
+		<parameter name="tagname" value="a"></parameter>
+		<classes>
+			<class name="org.crossBrowserTest.CrossBrowserTest"/>
+		</classes>
+	</test>
+
+	<test name="devData">
+		<parameter name="browsers" value="firefox"></parameter>
+		<parameter name="username" value="kumaran12@gmail.com"></parameter>
+		<parameter name="password" value="Kumaran@Test"></parameter>
+		<parameter name="tagname" value="li"></parameter>
+		<classes>
+			<class name="org.crossBrowserTest.CrossBrowserTest"/>
+		</classes>
+	</test>
+
+	<test name="disData">
+		<parameter name="browsers" value="edge"></parameter>
+		<parameter name="username" value="kumaran65@gmail.com"></parameter>
+		<parameter name="password" value="Kumaran@Test"></parameter>
+		<parameter name="tagname" value="div"></parameter>
+		<classes>
+			<class name="org.crossBrowserTest.CrossBrowserTest"/>
+		</classes>
+	</test>
+
+</suite>
+
